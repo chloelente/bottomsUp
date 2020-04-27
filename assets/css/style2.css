@@ -1,0 +1,19 @@
+.background h2 p{
+  font-family: Fredericka the Great;
+  color: #EA9C29
+}
+.header {
+  background: linear-gradient(0deg, rgba(55,55,55,1) 0%, rgba(55,55,55,1) 50%, rgba(255,255,255,1) 50%, rgba(246,246,246,1) 100%);
+
+}
+.trait{
+  background-color: #EA9C29
+}
+.Title{
+  font-size: 30px;
+  color: #EA9C29;
+  font-family: 'Fredericka the Great', cursive;
+}
+.Title2{
+  font-family: 'Fredericka the Great', cursive;
+}
